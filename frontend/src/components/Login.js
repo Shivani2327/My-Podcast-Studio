@@ -10,7 +10,7 @@ const Login = () => {
           <div className="col-10 col-md-6 col-lg-6 col-xl-4">
             <div className="card shadow-2-strong" style={{ borderRadius: "1rem" }}>
               <div className="card-body md-12 text-center">
-                <h3 className="mb-1">Sign in</h3>
+                <h3 className="mb-1">Sign in Now</h3>
                 <div className="form-outline mb-2">
                   <input
                     type="email"

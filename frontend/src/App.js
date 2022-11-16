@@ -12,8 +12,6 @@ import AddPodcast from './components/AddPodcast';
 import { AnimatePresence } from 'framer-motion';
 
 
-
-
 function App() {
   return (
     <div>
@@ -33,6 +31,7 @@ function App() {
 
 
             <Route element={<NotFound></NotFound>} path="*" />
+            
 
           </Routes>
         </BrowserRouter>

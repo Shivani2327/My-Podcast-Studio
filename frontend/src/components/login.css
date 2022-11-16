@@ -1,0 +1,16 @@
+.background{
+    
+    
+    background-image: url('https://www.adorama.com/alc/wp-content/uploads/2018/12/video-podcast-setup-onair-feature.jpg');
+   
+    height: 100%;
+    width: 100%;
+    
+    background-size: cover;
+    background-position:center;
+    background-repeat: no-repeat;
+    border-radius:inherit;
+    min-height: 95vh;
+   
+
+}

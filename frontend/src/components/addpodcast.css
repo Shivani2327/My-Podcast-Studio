@@ -1,0 +1,11 @@
+.podcast-card {
+    background-color: cornsilk;
+}
+
+.podcast-container {
+    padding-top: 5rem;
+    background-image: url('https://images.squarespace-cdn.com/content/v1/5f311151676aa726ef89b42a/1603899933065-UESD6J9JDWLCVI3V041T/RC2_8822_newmain_darker_withfilter.jpg?format=2500w');
+    background-size: cover;
+    min-height: 95vh;
+    backdrop-filter: blur(10px);
+}

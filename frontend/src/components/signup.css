@@ -1,0 +1,12 @@
+.signup-background{
+    background-image:url('https://www.dmjx.dk/sites/default/files/styles/master_course_banner/public/2020-01/Podcast%20A-Z_sa%CC%8Adan%20kommer%20du%20i%20gang.jpg?h=c9b98195&itok=v_AXVyJQ');
+    height: 100vh;
+    /* width: 100%; */
+    
+    background-size: cover;
+    background-position:center;
+    background-repeat: no-repeat;
+    border-radius:inherit;
+    padding-top: 5rem;
+    
+}

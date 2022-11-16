@@ -1,0 +1,6 @@
+.listpodcast-container {
+    padding-top: 5rem;
+    background-image: url('https://images.squarespace-cdn.com/content/v1/5021af7584ae12b32baa65c2/1594265349970-3DT4WWOQ66YBDHMI2N4I/Pod2020-1884.jpg?format=1500w');
+    min-height: 95vh;
+    backdrop-filter: blur(10px);
+}
